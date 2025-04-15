@@ -30,7 +30,7 @@ A proposta deste trabalho é simular um ambiente real de banco de dados acadêmi
 O desenvolvimento do projeto foi dividido nas seguintes etapas:
 
 1. **Modelagem Conceitual** – construção do Modelo Entidade-Relacionamento (MER);
-2. **Modelagem Lógica** – conversão para o Modelo Relacional em 3FN (Terceira Forma Normal);
+2. **Modelagem Lógica** – conversão para o Modelo Relacional em 3FN;
 3. **Implementação** – criação das tabelas utilizando DDL em SQL;
 4. **Geração de Dados** – criação de um script em Python para gerar dados fictícios utilizando a biblioteca Faker
 5. **Validação de Dados** – execução de código para verificação da integridade e consistência dos dados;
