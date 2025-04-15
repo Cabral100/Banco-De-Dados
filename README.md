@@ -44,7 +44,7 @@ O desenvolvimento do projeto foi dividido nas seguintes etapas:
    Mostra todas as tentativas de um aluno em uma disciplina, incluindo reprovação e posterior aprovação.
 
 2. **TCCs orientados por um professor**  
-   Exibe todos os projetos de TCC orientados por um professor, com os nomes dos alunos envolvidos.
+   Exibe todos os projetos de TCC orientados por um professor, com os nomes dos alunos que fizeram o projeto.
 
 3. **Matriz curricular de dois cursos com disciplinas em comum**  
    Duas queries foram feitas, uma para cada curso (ex: Ciência da Computação e Ciência de Dados), listando todas as disciplinas e permitindo comparar as que são compartilhadas.
@@ -52,7 +52,7 @@ O desenvolvimento do projeto foi dividido nas seguintes etapas:
 4. **Disciplinas cursadas por aluno com nomes dos professores**  
    Exibe os nomes e códigos das disciplinas cursadas por um aluno junto com os professores responsáveis.
 
-5. **Chefes de departamento e coordenadores de curso (com tratamento de dados vazios)**  
+5. **Chefes de departamento e coordenadores de curso**  
    Lista o nome dos professores, nome do departamento que chefiam e curso que coordenam. Quando não existe departamento ou curso, o campo é preenchido com "nenhum".
 
 ### Outras 10 queries implementadas:
