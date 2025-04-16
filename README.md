@@ -75,7 +75,3 @@ Primeiramente, utilize o arquivo ddl.sql para gerar as tabelas, após isso, util
 ## Modelos
 
 ### ![MER-2025-04-16-143449](https://github.com/user-attachments/assets/20888227-ad10-40bf-a6d9-d150657d3c15)
-
-
-
-### Modelo Relacional na 3FN
