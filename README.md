@@ -70,20 +70,7 @@ O desenvolvimento do projeto foi dividido nas seguintes etapas:
 
 ## Como Executar o Projeto
 
-1. Banco de Dados Supabase:
-O banco de dados foi criado com todas as tabelas necessárias, conforme o script ddl.sql.
-
-2. Conexão com o Banco de Dados:
-O projeto usa Python para se conectar ao banco de dados do Supabase. As credenciais de conexão (usuário, senha, host, porta e nome do banco de dados).
-
-3. Geração de Dados Fictícios:
-O script Python, utilizando a biblioteca Faker, gera dados fictícios para popular o banco de dados com informações como alunos, professores, cursos, disciplinas e outros dados relacionados à universidade.
-
-4. Execução das Queries:
-As consultas SQL estão organizadas em diferentes arquivos de SQL Editor. Elas podem ser executadas diretamente no banco de dados do Supabase para testar os requisitos do sistema. As queries resolvem problemas como histórico escolar, TCCs, matrizes curriculares e muito mais.
-
-5. Validação de Dados:
-Após a execução das queries, você pode validar os dados para garantir que o banco de dados está funcionando corretamente e as consultas retornam os resultados esperados.
+Primeiramente, utilize o arquivo ddl.sql para gerar as tabelas, após isso, utilize o código bd_codigo.py para gerar os dados de seu database, para isso, preencha o arquivo .env com suas váriaveis de acesso. Depois sinta-se a vontade para utilizar as outras queries disponíveis.
 
 ## Modelos
 
