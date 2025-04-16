@@ -74,6 +74,7 @@ Primeiramente, utilize o arquivo ddl.sql para gerar as tabelas, após isso, util
 
 ## Modelos
 
-### Modelo Entidade-Relacionamento (MER)
+### [MER-2025-04-16-143449](https://github.com/user-attachments/assets/eb3649ae-0b4f-497b-b0e9-374ae3c7f783)
+
 
 ### Modelo Relacional na 3FN
