@@ -1,7 +1,7 @@
 # Projeto 1 - Banco de Dados para uma Universidade
 
 ## Integrantes do grupo
-- **Guilherme Moraes Escudeiro** - RA: 24.123.005-1
+- **Guilherme Morais Escudeiro** - RA: 24.123.005-1
 - **Gustavo Mendes Franco Lapin Atui** – RA: 24.123.072-1
 - **Lucas Tonoli Cabral Duarte** - RA: 24.123.032-5
 
